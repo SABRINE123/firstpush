@@ -4,5 +4,7 @@ public class Personne {
     private String nom;
     private String prenom;
     private Float age;
+    private Double prixUnitaire;
 
 }
+
